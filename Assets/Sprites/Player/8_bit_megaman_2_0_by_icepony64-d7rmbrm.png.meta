@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: c0472285cd08558468fc83403c85f785
+timeCreated: 1483132812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_0
+    21300002: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_1
+    21300004: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_2
+    21300006: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_3
+    21300008: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_4
+    21300010: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_5
+    21300012: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_6
+    21300014: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_7
+    21300016: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_8
+    21300018: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_9
+    21300020: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_10
+    21300022: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_11
+    21300024: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_12
+    21300026: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_13
+    21300028: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_14
+    21300030: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_15
+    21300032: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_16
+    21300034: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_17
+    21300036: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_18
+    21300038: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_19
+    21300040: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_20
+    21300042: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_21
+    21300044: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_22
+    21300046: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_23
+    21300048: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_24
+    21300050: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_25
+    21300052: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_26
+    21300054: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_27
+    21300056: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_28
+    21300058: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_29
+    21300060: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_30
+    21300062: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_31
+    21300064: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_32
+    21300066: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_33
+    21300068: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_34
+    21300070: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_35
+    21300072: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_36
+    21300074: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_37
+    21300076: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_38
+    21300078: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_39
+    21300080: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_40
+    21300082: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_41
+    21300084: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_42
+    21300086: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_43
+    21300088: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_44
+    21300090: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_45
+    21300092: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_46
+    21300094: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_47
+    21300096: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_48
+    21300098: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_49
+    21300100: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_50
+    21300102: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_51
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 216
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 216
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 218
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 218
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 183
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 183
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 183
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 144
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 144
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 144
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 145
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 145
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 104
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 106
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 106
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 106
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 106
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 107
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 64
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 62
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 62
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 62
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 62
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 62
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 39
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 39
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 21
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_44
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 21
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_47
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 20
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8_bit_megaman_2_0_by_icepony64-d7rmbrm_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

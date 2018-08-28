@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Gr12 Summative Colors 2
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Color: {r: 0.24264705, g: 0.24264705, b: 0.24264705, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.3602941, g: 0.814706, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.44117647, g: 0.93062884, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.87081945, g: 0.65868294, b: 0.9632353, a: 1}
