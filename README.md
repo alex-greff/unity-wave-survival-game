@@ -29,3 +29,10 @@ To access the shop, simply stand on the shop block for a couple seconds. You wil
 * **Space** - Jump.
 * **(In Air) Space** - Double jump.
 * **Enter** - Fire weapon.
+
+
+## Cheats Version
+
+For those who just want to try out all the weapons and/or not worry about dying
+the cheats version found [here](Gr12_summative_game_cheats.zip) can be used.
+In this version, items in the shop do not cost anything.
