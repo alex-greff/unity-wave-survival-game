@@ -8,7 +8,7 @@ A wave-survival game developed in Unity for my grade 12 computer science summati
 
 A web build of the game can be found [here](https://wave-survival.netlify.app/)
 
-### Locally
+#### Locally
 
 * Download and extract [this](./dist/Gr12_summative_game.zip) file.
 * Run the executable file and play.
