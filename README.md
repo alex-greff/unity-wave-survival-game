@@ -4,6 +4,12 @@ A wave-survival game developed in Unity for my grade 12 computer science summati
 ## Getting Started
 ### Playing the Game
 
+#### Online 
+
+A web build of the game can be found [here](https://wave-survival.netlify.app/)
+
+### Locally
+
 * Download and extract [this](./dist/Gr12_summative_game.zip) file.
 * Run the executable file and play.
 
@@ -19,7 +25,7 @@ As you kill enemies you will gain currency which allows you to buy better weapon
 You are also able to flip your own local gravity at will which allows for many new movement techniques to be mastered and utilized effectively.
 
 ## Accessing the Shop
-To access the shop, simply stand on the shop block for a couple seconds. You will see an indicator appear above it displaying the opening progress).
+To access the shop, simply stand on the shop block for a couple seconds. You will see an indicator appear above it displaying the opening progress.
 
 ## Controls
 * **A** - Move left.
