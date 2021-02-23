@@ -1,0 +1,13 @@
+{
+"companyName": "TMHR Consulting",
+"productName": "Grade 12 Summative Project",
+"dataUrl": "Gr12_Summative_Web.data.unityweb",
+"asmCodeUrl": "Gr12_Summative_Web.asm.code.unityweb",
+"asmMemoryUrl": "Gr12_Summative_Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Gr12_Summative_Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

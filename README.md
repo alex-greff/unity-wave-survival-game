@@ -4,7 +4,7 @@ A wave-survival game developed in Unity for my grade 12 computer science summati
 ## Getting Started
 ### Playing the Game
 
-* Download and extract [Gr12_summative_game.zip](Gr12_summative_game.zip).
+* Download and extract [this](./dist/Gr12_summative_game.zip) file.
 * Run the executable file and play.
 
 ### Loading the Project in Unity
@@ -34,5 +34,5 @@ To access the shop, simply stand on the shop block for a couple seconds. You wil
 ## Cheats Version
 
 For those who just want to try out all the weapons and/or not worry about dying
-the cheats version found [here](Gr12_summative_game_cheats.zip) can be used.
+the cheats version found [here](./dist/Gr12_summative_game_cheats.zip) can be used.
 In this version, items in the shop do not cost anything.
